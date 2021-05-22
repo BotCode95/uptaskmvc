@@ -1,0 +1,6 @@
+POST http://localhost:3000/nuevo-proyecto
+Content-Type : text/html
+
+{
+    "nombre" : "React",
+}
